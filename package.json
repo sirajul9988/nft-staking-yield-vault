@@ -1,0 +1,12 @@
+{
+  "name": "nft-staking-yield-vault",
+  "version": "1.0.0",
+  "description": "ERC-721 to ERC-20 yield staking mechanism",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
+    "hardhat": "^2.20.0"
+  },
+  "scripts": {
+    "build": "hardhat compile"
+  }
+}
